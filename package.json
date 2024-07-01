@@ -1,0 +1,15 @@
+{
+  "name": "cronbackup",
+  "version": "1.0.0",
+  "main": "backup-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "mongodb": "^6.8.0"
+  }
+}
